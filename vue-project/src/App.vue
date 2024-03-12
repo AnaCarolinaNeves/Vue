@@ -12,7 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/usuario">Usuários</RouterLink>
       </nav>
     </div>
   </header>
@@ -33,7 +33,7 @@ header {
 
 nav {
   width: 100%;
-  font-size: 12px;
+font-size: 12px;
   text-align: center;
   margin-top: 2rem;
 }
